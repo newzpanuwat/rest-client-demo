@@ -12,3 +12,7 @@
 
 ### GET
 GET https://{{baseURL}}/api/people/ HTTP/1.1
+
+### POST
+
+### PUT
