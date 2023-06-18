@@ -5,5 +5,7 @@
 - Authorization
   - Bearer token
   - Basic auth
-- File & Prompt variables
--
+- File Variables
+- Prompt Variables
+- Environment Variables
+- Custom Variables
